@@ -1,6 +1,8 @@
 
 public class DuckPlay {
 
+	//comment
+
 	public static void main (String [] arg) {
 		Duck mallard = new MallardDuck();
 		Duck redhead = new RedheadDuck();
