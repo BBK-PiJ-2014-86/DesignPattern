@@ -22,6 +22,8 @@ public class Duck {
 		performFly();
 		performQuack();
 	}
+
+	// comment
 	
 	public void setFlyBehavior (FlyBehavior fb) {
 		this.flybehavior = fb;
